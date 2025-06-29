@@ -1,50 +1,77 @@
+# 🌟 Data Science Portfolio by Farid Chuzairi
 
-# Portofolio Data Science - [Tulis Nama Lengkap Anda Di Sini]
-
-Selamat datang di repositori portofolio saya! Halaman ini berisi kumpulan proyek yang telah saya kerjakan untuk mengasah dan menerapkan kemampuan saya dalam Analisis Data, Machine Learning, dan berbagai aspek lain dalam Ilmu Data.
-
-Setiap folder proyek berisi notebook `.ipynb` dengan analisis langkah demi langkah, dan jika relevan, juga menyertakan dataset yang digunakan. Jangan ragu untuk menjelajahi setiap proyek!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/username-anda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emailanda@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+Halo! Saya **Farid Chuzairi**, seorang Data Analyst / Data Scientist yang berfokus pada eksplorasi data, visualisasi, dan pembangunan model machine learning. Repositori ini menampilkan berbagai proyek pribadi sebagai bentuk pengembangan keterampilan di bidang data.
 
 ---
 
-## Daftar Proyek
+## 🚀 Ringkasan Proyek
 
-Berikut adalah daftar proyek yang tersedia dalam repositori ini.
-
-| #  | Proyek                                            | Deskripsi Singkat (Silakan Diperbarui)                                                                   | Link                                                                                                   |
-| :-- | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
-| 01 | **CO2 Per Capita** | Analisis data emisi CO2 per kapita di berbagai negara untuk menemukan tren dan pola dari waktu ke waktu.     | [Lihat Proyek](./01%20-%20Project%20%7C%20CO2%20Per%20Capita/)                                          |
-| 02 | **Pandas DataFrame** | Proyek fundamental untuk demonstrasi kemampuan manipulasi, pembersihan, dan analisis data menggunakan Pandas. | [Lihat Proyek](./02%20-%20Project%20%7C%20pandas%20DataFrame/)                                          |
-| 03 | **Web Scraping** | Mengambil data terstruktur dari situs web untuk dianalisis lebih lanjut menggunakan library seperti BeautifulSoup atau Scrapy. | [Lihat Proyek](./03%20-%20Project%20%7C%20Web%20Scraping/)                                              |
-| 04 | **Dallas Shootings** | Analisis eksplorasi pada dataset insiden penembakan di Dallas untuk mengidentifikasi pola geografis atau temporal. | [Lihat Proyek](./04%20-%20Project%20%7C%20Dallas%20Shootings/)                                          |
-| 05 | **Identify Data** | Proyek untuk mengidentifikasi dan memisahkan tipe data atau anomali dalam sebuah dataset yang kompleks.      | [Lihat Proyek](./05%20-%20Project%20%7C%20Identify%20Data/)                                             |
-| 06 | **Statistical Performance Indicators (SPI)** | Analisis dan perhitungan berbagai indikator kinerja statistik untuk mengevaluasi suatu proses atau model.  | [Lihat Proyek](./06%20-%20Project%20%7C%20Statistical%20Performance%20Indicators%20(SPI)/)              |
-| 07 | **Data Science Salaries** | Analisis data gaji para profesional di bidang data science untuk memahami faktor-faktor yang mempengaruhinya.  | [Lihat Proyek](./07%20-%20Project%20%7C%20Data%20Science%20Salaries/)                                   |
-| 08 | **European Soccer Regression** | Membangun model regresi untuk memprediksi atribut pemain atau hasil pertandingan di liga sepak bola Eropa.  | [Lihat Proyek](./08%20-%20Project%20%7C%20European%20Soccer%20Regression/)                              |
-| 09 | **Interpolation Impact** | Menganalisis dan membandingkan dampak berbagai metode interpolasi dalam menangani data yang hilang (missing values). | [Lihat Proyek](./09%20-%20Project%20%7C%20Interpolation%20Impact/)                                      |
-| 10 | **Classification with Hidden Features** | Membangun model klasifikasi yang efektif pada dataset di mana beberapa fitur penting tidak diketahui secara langsung. | [Lihat Proyek](./10%20-%20Project%20%7C%20Classification%20with%20Hidden%20Features/)                     |
-| 11 | **Feature Scaling** | Menganalisis dampak berbagai teknik Feature Scaling (seperti Normalization & Standardization) pada performa model. | [Lihat Proyek](./11%20-%20Project%20%7C%20Feature%20Scalling/)                                          |
-| 12 | **House Pricing** | Membangun model Machine Learning untuk memprediksi harga rumah berdasarkan berbagai fitur properti.          | [Lihat Proyek](./12%20-%20Projects%20%7C%20House%20Pricing/)                                            |
+| No. | Proyek                                   | Deskripsi Singkat                                      | Fokus                     | Folder |
+|-----|-------------------------------------------|---------------------------------------------------------|---------------------------|--------|
+| 01  | CO2 Per Capita                           | Visualisasi tren emisi karbon dari negara-negara dunia | Data Visualization        | [📓 Lihat](./01%20-%20Project%20%7C%20CO2%20Per%20Capita/) |
+| 02  | pandas DataFrame                         | Transformasi dan eksplorasi data tabular dengan pandas | Data Wrangling            | [📓 Lihat](./02%20-%20Project%20%7C%20pandas%20DataFrame/) |
+| 03  | Web Scraping                             | Mengambil data dari situs web publik                   | Data Collection           | [📓 Lihat](./03%20-%20Project%20%7C%20Web%20Scraping/) |
+| 04  | Dallas Shootings                         | Analisis data penembakan berdasarkan waktu dan lokasi  | Exploratory Analysis      | [📓 Lihat](./04%20-%20Project%20%7C%20Dallas%20Shootings/) |
+| 05  | Identify Data                            | Eksplorasi awal terhadap dataset baru                  | Data Understanding        | [📓 Lihat](./05%20-%20Project%20%7C%20Identify%20Data/) |
+| 06  | Statistical Performance Indicators (SPI) | Membangun indikator performa tim olahraga              | Sports Analytics          | [📓 Lihat](./06%20-%20Project%20%7C%20Statistical%20Performance%20Indicators%20%28SPI%29/) |
+| 07  | Data Science Salaries                    | Analisis tren gaji pekerjaan data                      | Career Insights           | [📓 Lihat](./07%20-%20Project%20%7C%20Data%20Science%20Salaries/) |
+| 08  | European Soccer Regression               | Prediksi performa tim sepak bola dengan regresi        | Regression Modeling       | [📓 Lihat](./08%20-%20Project%20%7C%20European%20Soccer%20Regression/) |
+| 09  | Interpolation Impact                     | Membandingkan teknik interpolasi data hilang           | Data Cleaning             | [📓 Lihat](./09%20-%20Project%20%7C%20Interpolation%20Impact/) |
+| 10  | Classification with Hidden Features      | Klasifikasi dengan fitur tersembunyi                   | Supervised Learning       | [📓 Lihat](./10%20-%20Project%20%7C%20Classification%20with%20Hidden%20Features/) |
+| 11  | Feature Scaling                          | Eksperimen metode normalisasi fitur                    | Feature Engineering       | [📓 Lihat](./11%20-%20Project%20%7C%20Feature%20Scaling/) |
+| 12  | House Pricing                            | Prediksi harga rumah dengan regresi                    | Machine Learning          | [📓 Lihat](./12%20-%20Project%20%7C%20House%20Pricing/) |
 
 ---
 
-## Teknologi & Tools
+## 📘 Deskripsi Detail per Proyek
 
-Beberapa teknologi utama yang saya gunakan dalam proyek-proyek ini:
+### 📁 01 - CO2 Per Capita
+Analisis emisi CO2 per kapita dari berbagai negara. Menyoroti tren historis dan perbedaan antarwilayah dengan visualisasi menarik.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-094C68?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-</p>
+### 📁 02 - pandas DataFrame
+Eksplorasi dan manipulasi data tabular menggunakan `pandas`, termasuk transformasi, filtering, dan pengelompokan data.
 
-Terima kasih telah berkunjung!
+### 📁 03 - Web Scraping
+Pengambilan data dari situs web menggunakan `requests` dan `BeautifulSoup`, lalu mengubahnya menjadi DataFrame siap pakai.
+
+### 📁 04 - Dallas Shootings
+Analisis dataset insiden penembakan di Dallas berdasarkan waktu, lokasi, dan jenis kejadian. Disajikan dengan visualisasi eksploratif.
+
+### 📁 05 - Identify Data
+Eksperimen untuk memahami struktur dataset baru: eksplorasi tipe data, missing value, hingga potensi outlier.
+
+### 📁 06 - Statistical Performance Indicators (SPI)
+Membangun metrik statistik performa untuk tim olahraga dengan pendekatan statistik terukur.
+
+### 📁 07 - Data Science Salaries
+Studi tren gaji profesional data di berbagai negara dan tingkatan jabatan. Disertai visualisasi dan insight industri.
+
+### 📁 08 - European Soccer Regression
+Regresi statistik untuk memprediksi performa tim sepak bola Eropa berdasarkan berbagai fitur numerik.
+
+### 📁 09 - Interpolation Impact
+Perbandingan dampak dari berbagai metode interpolasi data hilang (missing value) pada hasil analisis.
+
+### 📁 10 - Classification with Hidden Features
+Model klasifikasi untuk dataset dengan fitur tersembunyi atau terbatas. Uji kinerja model pada data parsial.
+
+### 📁 11 - Feature Scaling
+Eksperimen menggunakan StandardScaler, MinMaxScaler, dan RobustScaler untuk melihat dampaknya terhadap model ML.
+
+### 📁 12 - House Pricing
+Model prediktif harga rumah menggunakan regresi. Dataset mencakup luas rumah, lokasi, dan fitur lainnya.
+
+---
+
+## 💻 Tools & Teknologi
+
+- **Python**: pandas, numpy, matplotlib, seaborn  
+- **Machine Learning**: scikit-learn  
+- **Web Scraping**: BeautifulSoup, requests  
+- **Notebook Environment**: Jupyter Notebook  
+
+
+---
+
+⭐ Jika kamu menyukai proyek-proyek ini, silakan beri ⭐ pada repositori.  
+Terima kasih sudah berkunjung 🙌
